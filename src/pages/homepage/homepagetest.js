@@ -6,7 +6,7 @@ const HomepageTest = () => {
   const router = useRouter();
 
   const navigateToMainPage = () => {
-    router.push('../../../app/_app'); // Redirect to MainPage
+    router.push('/platform'); // Redirect to MainPage
   };
 
   return (
