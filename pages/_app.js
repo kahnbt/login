@@ -1,6 +1,5 @@
 import { Provider } from 'next-auth/client';
 import { ChakraProvider } from '@chakra-ui/react';
-import { CacheProvider } from '@chakra-ui/react';
 import Layout from '@/src/layout/layout';
 import { FileProvider } from '@/context/FileProvider';
 
